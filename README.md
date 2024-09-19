@@ -1,2 +1,2 @@
 # design
-known location of crafted design elements and style resets
+custom design elements and style resets
